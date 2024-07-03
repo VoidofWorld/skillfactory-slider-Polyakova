@@ -67,6 +67,10 @@ body{
 .main__text_article_features_items_apart{
     margin-left: 24px;
 }
+.main__text_article_features_items_title_text{
+    min-width: 99px;
+}
+
 .main__text_article_features_items_title_text, .main__text_article_features_items_title_repair, .main__text_article_features_items_title_apart, .main__text_article_features_items_text{
     text-transform: none;
     font-weight: 400;
